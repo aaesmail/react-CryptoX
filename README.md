@@ -1,6 +1,7 @@
 # CryptoX
 
 ## App: https://cryptox-1a4cf.web.app/
+## Hosted on Firebase
 
 ### A web app made with React and Bootstrap to deliver Crptocurrencies information
 ### Used the public API of Coinlore: https://www.coinlore.com/cryptocurrency-data-api
