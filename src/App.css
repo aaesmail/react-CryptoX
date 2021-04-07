@@ -1,0 +1,12 @@
+.card:hover,
+.card:focus {
+  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: translate(-2px, 2px);
+}
+
+@media (max-width: 768px) {
+  .nav-cover {
+    width: 150vw;
+    padding-right: 50vw;
+  }
+}
