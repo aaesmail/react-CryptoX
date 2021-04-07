@@ -18,6 +18,7 @@ Used React to present all the data in the public API of coinlore in a nice way t
 React-router-dom for the general routing functionality of the app.
 Axios for fetching api data.
 Hosted the Webapp on firebase.
+Used Lazy loading/Code Splitting to not load all parts of the app unless required.
 
 ## List of used tools:
   * Javascript
@@ -35,3 +36,4 @@ Hosted the Webapp on firebase.
 * Performance in the Exchanges page is not the best because the API doesn't provide a paging way in the API so can't request only parts of the data.
 * Wanted to make a search in the Coins and Exchanges list but the API doesn't have a filter functionality.
 * I think the Pagination component can be made better algorithm wise.
+* I think the lazy loading/code splitting was an overkill for an app this small, so it impacted performance a bit. But I used it in this app just to show that I can use it.
