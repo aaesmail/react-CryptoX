@@ -28,6 +28,7 @@ Used Lazy loading/Code Splitting to not load all parts of the app unless require
   * React Router: https://reactrouter.com/
   * Prop-types: https://www.npmjs.com/package/prop-types
   * Axios: https://www.npmjs.com/package/axios
+  * Bootstrap 4: https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 ## Critical Overview:
 * Responsive web app that adjusts to screen size.
